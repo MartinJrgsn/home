@@ -37,6 +37,10 @@ properties: value;
 }
 */
 
+.workHeader {
+	text-decoration: #2b2e4a;
+}
+
 /********ID Selectors********/ /*id's can only be used once every .html file*/
 /*
 if id="heading", then
