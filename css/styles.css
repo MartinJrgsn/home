@@ -1,3 +1,5 @@
+/********TAG Selectors********/
+
   body {
     background-color: #E3FDFD;
   }
@@ -17,3 +19,29 @@
   h3 {
     color: #34656d;
   }
+
+/*
+img:hover {
+  background-color: #DFFFFF;
+  border-radius: 45%;
+  background-size: 100%;
+}
+*/
+/********Class Selectors********/ /*use class when you want to apply to a group*/
+
+/*
+if class="selector", then
+
+.selector {
+properties: value;
+}
+*/
+
+/********ID Selectors********/ /*id's can only be used once every .html file*/
+/*
+if id="heading", then
+
+#heading {
+properties: value;
+}
+*/
