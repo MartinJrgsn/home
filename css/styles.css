@@ -8,3 +8,12 @@ body {
     border-width: 5px;
     width: 10%;
   }
+
+  h1{
+    color: #2b2e4a;
+    text-decoration: underline #2b2e4a;
+  }
+
+  h3 {
+    color: #34656d;
+  }
